@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>PingX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<h2>PingX Login</h2>
+
+<input id="email" placeholder="Email">
+<input id="password" type="password" placeholder="Password">
+<button onclick="login()">Login / Daftar</button>
+
+<hr>
+
+<h3>Chat</h3>
+<div id="chatBox"></div>
+
+<input id="message" placeholder="Ketik pesan...">
+<button onclick="sendMessage()">Kirim</button>
+
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
