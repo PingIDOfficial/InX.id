@@ -1,12 +1,12 @@
 # 🚀 inX
 
-PingX adalah aplikasi chat real-time terinspirasi dari BBM,
-dibangun dengan teknologi modern (Firebase).
+inX adalah aplikasi chat real-time modern
+terinspirasi dari BBM dengan fitur masa kini.
 
 ## ✨ Fitur
 - 🔐 Login & Register
 - 💬 Chat Real-time
-- 🟢 Online / Offline Status
+- 🟢 Online / Offline (Coming Soon)
 - 📍 Nearby User (Coming Soon)
 - 📌 Status (Coming Soon)
 
@@ -15,9 +15,5 @@ dibangun dengan teknologi modern (Firebase).
 - Firebase Authentication
 - Firebase Firestore
 
-## 🎯 Tujuan
-Membuat aplikasi chat modern yang ringan, cepat,
-dan dekat dengan pengguna sekitar.
-
 ## 📌 Status
-🚧 Dalam pengembangan (MVP)
+🚧 Development (MVP)
